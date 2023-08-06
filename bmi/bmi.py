@@ -1,7 +1,7 @@
 import customtkinter as ctk
 from settings import *
 class App(ctk.CTK):
-  def __iniit__():
+  def __init__():
 
     #window setup
     super().__init__(fg_color= GREEN)
